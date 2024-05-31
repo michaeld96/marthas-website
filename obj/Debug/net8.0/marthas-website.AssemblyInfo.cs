@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("marthas-website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa6746ace2f252628595c3db377030581c0f1617")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99c3251520bd13c2bfe712988d6910f3a0edaf4d")]
 [assembly: System.Reflection.AssemblyProductAttribute("marthas-website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("marthas-website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
