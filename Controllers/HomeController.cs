@@ -18,7 +18,17 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult Portfolio()
+    public IActionResult Paintings()
+    {
+        return View();
+    }
+
+    public IActionResult About()
+    {
+        return View();
+    }
+
+    public IActionResult Books()
     {
         return View();
     }
