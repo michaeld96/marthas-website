@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("marthas-website")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3ddc7a1b053f403a3514515ccc75ef9d722c04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27eac4bc73ddc7b5af3f39c47eefbb26e1215f50")]
 [assembly: System.Reflection.AssemblyProductAttribute("marthas-website")]
 [assembly: System.Reflection.AssemblyTitleAttribute("marthas-website")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
