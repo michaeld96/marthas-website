@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Mike\\OneDrive\\Documents\\marthas-website\\wwwroot\\imgs\\sprout-icon.png",
+      "PackagePath": "staticwebassets\\imgs\\sprout-icon.png"
+    },
+    {
       "Id": "C:\\Users\\Mike\\OneDrive\\Documents\\marthas-website\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

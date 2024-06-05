@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "U9GS4MOWVJ8f35FLVONR/X5LZ/htWm3buE0W2r/kKDA=",
+  "Hash": "Ll6tl7v8G8DwVg2x+D/obL3qqmxQtkagi6hi5vj15BI=",
   "Source": "marthas-website",
   "BasePath": "_content/marthas-website",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Mike\\OneDrive\\Documents\\marthas-website\\wwwroot\\imgs\\sprout-icon.png",
+      "SourceId": "marthas-website",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mike\\OneDrive\\Documents\\marthas-website\\wwwroot\\",
+      "BasePath": "_content/marthas-website",
+      "RelativePath": "imgs/sprout-icon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imgs\\sprout-icon.png"
     },
     {
       "Identity": "C:\\Users\\Mike\\OneDrive\\Documents\\marthas-website\\wwwroot\\js\\site.js",
