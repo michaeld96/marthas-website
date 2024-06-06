@@ -13,3 +13,6 @@
   - [ ] Populate database.
 
 probably more.
+
+also, note: this project is using the MVC (model, view, controller) design pattern. 
+a common design in web development. 
